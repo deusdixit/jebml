@@ -78,7 +78,6 @@ public class EBMLReader
    * source</code>. The <code>DocType doc</code> is used to validate the document.
    *
    * @param source DataSource to read from
-   * @param doc DocType to use to validate the docment
    */
   public EBMLReader(final DataSource source)
   {
